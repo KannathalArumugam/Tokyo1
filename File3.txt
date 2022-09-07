@@ -1,3 +1,4 @@
 Creating a new branch
 Another commit happens in branch feature
 After deleting the branch in Amy's Folder commit happens
+After creating the another branch in Amy's Folder commit happens
