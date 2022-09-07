@@ -5,3 +5,4 @@ Commit happens in the John's Folder.
 Contents are fetched from John's Folder.
 In John's Folder,pull Amy's Changes into the feature branch.
 Merge the feature branch into master.
+Check the status of the repo.
