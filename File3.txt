@@ -6,3 +6,4 @@ Commit done in same branch in Amy's Folder
 Newly created branch is deleted
 Switching to the John's Folder
 Switched to the Amy's Folder and fetched the commit from remote
+New Branch is created.
