@@ -7,3 +7,4 @@ In John's Folder,pull Amy's Changes into the feature branch.
 Merge the feature branch into master.
 Check the status of the repo.
 Delete the local branch which was created earlier
+View the history to ensure master and origin/master.
